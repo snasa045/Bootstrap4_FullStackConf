@@ -6,4 +6,4 @@ Although, we can make this website a fully functional with JSON, AJAX and MEAN s
 
 Full Stack Conf is a prototype website and we can reference it to make any real world website.
 
-Thank You!!!  
+Thank You!!! 
