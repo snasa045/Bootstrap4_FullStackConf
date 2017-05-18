@@ -1,0 +1,32 @@
+.navbar .navbar-brand {
+  color: rgba(255, 255, 255, .85);
+  font-size: 1rem;
+  padding-top: .45rem;
+}
+
+.btn,
+.active {
+  transition: .4s;
+}
+
+/*To set background image in Jumbotron*/
+.jumbotron{
+  background-image: linear-gradient(dodgerblue, transparent 30%), linear-gradient(to top, #fff, transparent 10%), url(../img/jumbo-bg1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  opacity: .8;
+  z-index: -1; 
+}
+
+.jumbotron h1 {
+  font-weight: bold;
+}
+
+.jumbotron p.lead {
+  font-size: 1.4em; 
+}
+
+body {
+  background-color: #EFEFEF;
+}
